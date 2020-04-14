@@ -1,20 +1,13 @@
-# Instituto Vocacional Argentino V 1.0.0
+Instituto Vocacional Argentino
+Secundario Privado Laico - Ciudad de Buenos Aires
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
+Framework: AngularJS 8
 
-## Mi primer SPA
+Diseño del sitio institucional del I.V.A. luego de 20 años, su diseño anterior estaba en formato ASP
+Al mismo tiempo re diseñe su logotipo y otros recursos para su identidad. En su larga historia como institución, no contaban con un manual básico para respetar en sus medios de comunicación.
 
+El sitio fue montado en la version estable 8 de AngularJS.
+Mi primer proyecto en este entorno, utilice ruoterLink para su navegación.
+Además fue acompañado con NgBootstrap.
 
-Este es mi primer proyecto realizado con Angular Js.
-El sitio antes habia sido programado con PHP.
-
-Luego de aprender la estructura básica y utilizar Angular CLI
-migre el sitio a este framework.
-
-El proyecto se trata de un sitio institucional de un Secundario Privado Laico
-en Buenos Aires. Allí se encuentran los datos necesarios para inscripciones a nuevos alumnos y datos de contacto.
-
-Para la interfaz se utilizó Bootstrap 4.
-
-Pueden observar el sitio final en:
-<a href="http://institutovocacional.org.ar">Link al sitio</a>
+Pueden visitar el sitio en: institutovocacional.org.ar
